@@ -40,4 +40,5 @@
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="ui.Main01"/>
 <fullyQualifiedTypeName name="ui.Main01.SerialListener"/>
+<fullyQualifiedTypeName name="gnu.io.SerialPortEventListener"/>
 </qualifiedTypeNameHistroy>
